@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning web dev 
 - 💞️ I’m looking to collaborate on different platforms
 - 📫 How to reach me:through the provided links
-- ⚡ Fun fact:I'm a self motivated person 
+- ⚡ Fun fact:I'm a self motivated person
+- 💞️Passionate about learning Machine Learning and AI technologies
 
 <!---
 Soumya533/Soumya533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
