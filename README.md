@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Soumya533
-- 👀 I’m interested in full stack web dev,Ai/Ml Technologies
+- 👀 I’m interested in data analyst,Ai/Ml Technologies
 - 🌱 I’m currently learning web dev,ML Algorithms,DSA using python 
 - 💞️ I’m looking to collaborate on different platforms
-- 📫 How to reach me:through the provided links
 - ⚡ Fun fact:I'm a self motivated person
 - 💞️Passionate about learning Machine Learning and AI technologies
 
