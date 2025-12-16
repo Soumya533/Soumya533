@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Soumya533
-- 👀 I’m interested in data analyst,Ai/Ml Technologies
+- 👀 I’m interested in Python developer,Cloud Computing,Machine Learning Technologies
 - 🌱 I’m currently learning web dev,ML Algorithms,DSA using python 
 - 💞️ I’m looking to collaborate on different platforms
 - ⚡ Fun fact:I'm a self motivated person
